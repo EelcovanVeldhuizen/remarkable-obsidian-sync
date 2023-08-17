@@ -3,5 +3,5 @@ FROM python:3.11.4
 ADD main.py .
 RUN pip install "git+https://github.com/EelcovanVeldhuizen/rmc.git@Excalidraw"
 RUN mkdir -p /app/remarkables
-RUN mkdir - /app/vault
+RUN mkdir -p /app/vault
 CMD ["python", "./main.py"] 
