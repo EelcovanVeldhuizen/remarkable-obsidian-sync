@@ -2,7 +2,7 @@
 
 Sync
 ```sh
-rsync -av root@192.168.0.237:/home/root/.local/share/remarkable/xochitl/ <path_to_remarkables>
+rsync -av root@10.11.99.1:/home/root/.local/share/remarkable/xochitl/ <path_to_remarkables>
 ```
 
 Build:
