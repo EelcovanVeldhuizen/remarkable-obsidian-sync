@@ -76,9 +76,6 @@ You need to have Docker if you want use this script the same way as I do. How to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-
 1. Make sure you have something to copy the files from the remarkable to your machine. I use Rsync which comes with MacOs and almost every Linux distribution.
 
 2. Clone the repo
