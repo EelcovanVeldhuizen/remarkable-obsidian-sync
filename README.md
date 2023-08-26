@@ -12,17 +12,13 @@
   <h3 align="center">Remarkable to Obsidian Sync</h3>
 
   <p align="center">
-    This project syncs but mostly converts your remarkable drawings to Excalidraw / markdown files that can be used in combination with the [Obsidian Excalidraw Plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin).
+    This project syncs but most important converts your remarkable drawings to Excalidraw / markdown files that can be used in combination with the [Obsidian Excalidraw Plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin).
     <br />
     <br />
-  
     <a href="https://github.com/EelcovanVeldhuizen/remarkable-obsidian-sync/issues">Report Bug</a>
-    ·
     <a href="https://github.com/EelcovanVeldhuizen/remarkable-obsidian-sync/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -53,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -91,7 +87,6 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
