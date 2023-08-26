@@ -12,7 +12,7 @@
   <h3 align="center">Remarkable to Obsidian Sync</h3>
 
   <p align="center">
-    This project syncs but most important converts your remarkable drawings to Excalidraw / markdown files that can be used in combination with the [Obsidian Excalidraw Plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin).
+    This project syncs but most important converts your remarkable drawings to Excalidraw / markdown files that can be used in combination with the <a href="https://github.com/zsviczian/obsidian-excalidraw-plugin">Obsidian Excalidraw Plugin</a>.
     <br />
     <br />
     <a href="https://github.com/EelcovanVeldhuizen/remarkable-obsidian-sync/issues">Report Bug</a>
